@@ -52,11 +52,6 @@ meta:
 - [Task List](#task-list)
 - [Admonition](#admonition)
 - [Vuepress Container](#vuepress-container)
-- [Time Component](#time-component)
-- [Axios Component](#axios-component)
-- [Cryptography Component](#cryptography-component)
-	- [Encrypt](#encrypt)
-	- [Decrypt](#decrypt)
 
 ---
 
